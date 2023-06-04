@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2FA_Demo/1.0.0": {
+        "dependencies": {
+          "GoogleAuthenticator": "3.1.0"
+        },
+        "runtime": {
+          "2FA_Demo.dll": {}
+        }
+      },
+      "GoogleAuthenticator/3.1.0": {
+        "dependencies": {
+          "QRCoder": "1.4.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Authenticator.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "QRCoder/1.4.3": {
+        "runtime": {
+          "lib/net6.0/QRCoder.dll": {
+            "assemblyVersion": "1.4.3.0",
+            "fileVersion": "1.4.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2FA_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoogleAuthenticator/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xVu1xsUW2W3wXGQYhs1bwFKYAiPh5KlRakAuXI6WNwmluqALMERgGZKZ3us70qz03yvzAyTv8gLXOvB3FDVEmA==",
+      "path": "googleauthenticator/3.1.0",
+      "hashPath": "googleauthenticator.3.1.0.nupkg.sha512"
+    },
+    "QRCoder/1.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fWuFqjm8GTlEb2GqBl3Hi8HZZeZQwBSHxvRPtPjyNbT82H0ff0JwavKRBmMaXCno1Av6McPC8aJzri0Mj2w9Jw==",
+      "path": "qrcoder/1.4.3",
+      "hashPath": "qrcoder.1.4.3.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZoE8jYbk/zfpBGoeAgTVdhwRD8YFXSF5Zh4Czu57yx1TmEYIZXFTSAcH/SGizQWyK4fOwVeHTfjsYg4X85bHQ==",
+  "success": true,
+  "projectFilePath": "/home/felicien/Documents/2FA_Demo/2FA_Demo/2FA_Demo.csproj",
+  "expectedPackageFiles": [
+    "/home/felicien/.nuget/packages/googleauthenticator/3.1.0/googleauthenticator.3.1.0.nupkg.sha512",
+    "/home/felicien/.nuget/packages/qrcoder/1.4.3/qrcoder.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
