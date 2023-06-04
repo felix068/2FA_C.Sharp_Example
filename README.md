@@ -20,15 +20,15 @@ The program can be compiled using the provided Make_Compile.sh file in the 2FA_D
 3. Open a terminal in that folder.
 
 4. Run the following command to compile the project:
-
+```shell
 ./Make_Compile.sh
-
+```
 This command uses the dotnet runtime to publish the application in Release mode, specifying the linux-x64 execution environment, and creating a single self-contained executable file.
 
 5. Once the compilation is complete, you can run the program using the following command:
-
+```shell
 ./<Program_Name>
-
+```
 Replace `<Program_Name>` with the name of the generated executable file.
 
 ## Usage
