@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YIVczNInnw4i9vmKGQ9EL1fLIitoivHsb6QTwN5BMvCYNElTXz/HOfI8HjHTm69iH7a82LyqOLlnDRl7DmMA8g==",
+  "success": true,
+  "projectFilePath": "/home/felicien/Documents/2FA_Demo/2FA_Demo_Generator/2FA_Demo.csproj",
+  "expectedPackageFiles": [
+    "/home/felicien/.nuget/packages/googleauthenticator/3.1.0/googleauthenticator.3.1.0.nupkg.sha512",
+    "/home/felicien/.nuget/packages/qrcoder/1.4.3/qrcoder.1.4.3.nupkg.sha512",
+    "/home/felicien/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.16/microsoft.netcore.app.runtime.linux-x64.6.0.16.nupkg.sha512",
+    "/home/felicien/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.16/microsoft.aspnetcore.app.runtime.linux-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

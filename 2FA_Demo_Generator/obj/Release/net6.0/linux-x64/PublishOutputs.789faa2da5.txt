@@ -1,0 +1,2 @@
+/home/felicien/Documents/2FA_Demo/2FA_Demo_Generator/bin/Release/net6.0/linux-x64/publish/2FA_Demo.pdb
+/home/felicien/Documents/2FA_Demo/2FA_Demo_Generator/bin/Release/net6.0/linux-x64/publish/2FA_Demo
